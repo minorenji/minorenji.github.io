@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Sean Lim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "First year student at the Allen School of Computer Science and Engineering."
+  bio              : "First year student at the UW Allen School of Computer Science and Engineering."
   location         : "Seattle, WA"
-  email            : seanlim@uw.edu
+  email            : # seanlim@uw.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:seanlim@uw.edu"
+      url: "mailto:seanlim@uw.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
