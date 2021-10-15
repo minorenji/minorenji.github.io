@@ -1,5 +1,5 @@
-# What is Jekyll?
-Their [website](https://jekyllrb.com/) speaks for itself but as I understand it, it's a static site generator that allows you to create websites without doing too much coding. I wanted to try creating a website but didn't want to use a completely premade website editor (like Wordpress) but also didn't know how to code one from scratch. So this was a nice midpoint between those options.
+# Working with Jekyll
+Their [website](https://jekyllrb.com/) speaks for itself but as I understand it, Jekyll a static site generator that allows you to create websites without doing too much coding. I wanted to try creating a website but didn't want to use a completely premade website editor (like Wordpress) but also didn't know how to code one from scratch. So this was a nice midpoint between those options.
 
 There's other static site generators out there but I was recommended Jekyll so this is the one I used, and based on what little I know about running websites, I think I like it a lot.
 
