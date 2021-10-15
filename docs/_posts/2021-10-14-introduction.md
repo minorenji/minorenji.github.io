@@ -1,3 +1,7 @@
+---
+tag: personal
+---
+
 Hi, my name is Sean and I'm a freshman at UW. Although I was born in Korea, I've lived in Washington for over 17 years and can be considered 'Korean-American' (although I don't particularly like that label).
 
 I'm usually interested in a lot of things and my interests tend to change a lot, but currently I enjoy:
@@ -7,7 +11,7 @@ I'm usually interested in a lot of things and my interests tend to change a lot,
 * Coding
 	* Mainly studying Java in school 
 	* Am familiar with Python syntax
-	* Trying to learn html, js, and css
+	* Trying to learn HTML, Javascript, and CSS
 * Asian Literature
 	* Currently interested in Japanese lit
 * Asian Languages
