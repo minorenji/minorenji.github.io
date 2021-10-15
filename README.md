@@ -12,8 +12,6 @@ Whenever I type up these posts or make some other adjustment to the site, I need
 ## Initial Research
 I briefly talked about this above, but after I decided I wanted to make a website I spent some time browsing potential ways of acheiving it. I was unfamiliar with HTML, JS, CSS, and webdev in general so I didn't really know where to start. There were obvious options like Squarespace or Wordpress but I wanted to make something that was more of my 'own' than just made through a tool someone else made.
 
-(To be clear, Jekyll is a tool someone else made but it feels like I went through more putting this together than just making a Wordpress site.)
-
 ## Understanding Git
 To use Jekyll you need to have Git installed. So I installed Git for windows and learned some basic commands. Do I really understand how Git works? No. But I think I have a better grasp overall of what it does.
 
