@@ -1,3 +1,6 @@
+---
+tags: personal literature
+---
 
 It's been three weeks since I finished reading *No Longer Human* by Osamu Dazai. It has also nearly been three weeks since classes started at UW. My original reflection on the novel that I wrote after completing it can be found [here](https://www.goodreads.com/review/show/3814398062). But in this post I want to return to the book once again, being mindful of the new insights I've gained in the past weeks.
 
