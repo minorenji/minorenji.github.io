@@ -1,3 +1,7 @@
+---
+tags: projects
+---
+
 # [Satirical News Detection](https://github.com/minorenji/satirical-news-detection)
 The objective of this project was to use a ML model in scikit-learn to detect whether a news article is satirical based on its headline. The dataset used can be found [here](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection).
 
