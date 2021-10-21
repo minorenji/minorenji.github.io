@@ -7,11 +7,6 @@ Hi, my name is Sean and I'm a freshman at UW. Although I was born in Korea, I've
 
 I'm usually interested in a lot of things and my interests tend to change a lot, but currently I enjoy:
 
-* Kendo
-	* UW Kendo Club member
-* Coding
-	* Mainly studying Java in school but also familiar with Python syntax
-	* Interested in NLP and machine learning.
 * Asian Literature
 	* Currently interested in Japanese lit
 * Asian Languages
@@ -27,6 +22,11 @@ I'm usually interested in a lot of things and my interests tend to change a lot,
 	* I've learned piano and violin in the past
 	* Currently trying to teach myself guitar
 	(but I don't have a guitar with me right now)
+* Kendo
+	* UW Kendo Club member
+* Coding
+	* Mainly studying Java in school but also familiar with Python syntax
+	* Interested in NLP and machine learning.
 
 ## This Site
-I created this site as a personal blog as well as to experiment with static websites. Currently, it's just a space for my blogposts but I'm trying to find a way to add other things.
+I created this site as a personal blog as well as to experiment with static websites. Currently, it's just a space for my blogposts but I'm trying to add other things in the future.
