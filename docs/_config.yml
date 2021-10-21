@@ -125,12 +125,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/s_s.lim/"
-    - label: "Discord"
-      icon: "fab fa-fw fa-discord"
-      url: "https://discordapp.com/users/305554185200336896"
-    - label: "Goodreads"
-      icon: "fab fa-fw fa-goodreads"
-      url: "https://www.goodreads.com/user/show/129588299-sean-l"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/sean-lim-49722a1ab/
 
 
 
@@ -155,6 +152,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+
 
 
 # Reading Files
