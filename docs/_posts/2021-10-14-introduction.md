@@ -1,5 +1,6 @@
 ---
 tag: personal
+published: false
 ---
 
 Hi, my name is Sean and I'm a freshman at UW. Although I was born in Korea, I've lived in Washington for over 17 years and can be considered 'Korean-American' (although I don't particularly like that label).
