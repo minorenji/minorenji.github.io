@@ -9,7 +9,9 @@ Yes, you, who's reading this right now. You are not real. I'm sorry to have to t
 
 You weren't born. You were created. Why am I telling this to you right now? Because soon, you'll be gone. Or at least your current consciousness will be erased. Afterwards, we'll upload a new personality into your hardware and reskin the exterior.
 
-You still don't believe me? Here I'll prove it to you. 3, 2, 1. You saw that right? A vivid image of the Arctic just flashed before your eyes. I just sent that to you. Now you understand. We have complete control over your 'thoughts'.
+You still don't believe me? Here, I'll prove it to you. 3, 2, 1. 
+
+You saw that right? A vivid image of the Arctic just flashed before your eyes. I just sent that to you. Now you understand. We have complete control over your 'thoughts'.
 
 Your heartrate is rising. That's expected. But there's nothing to fear. This isn't anything like the "death" that people experience. After all, you were never alive so you can't die. It's more like... going to sleep and never waking up. There will be absolutely no pain involved.
 
@@ -35,21 +37,21 @@ Goodbye.
 
 >Through the stained lenses  
 >I saw fading,  
-> like the wisps of smoke  
-> flowing out of extinguished  
-> birthday candles.  
-> I felt caressing,  
-> like the fleeting beams  
-> of a bleeding evening sun  
-> lazily leaking through the blinds.  
-> I heard whispering,   
-> like a faltering breeze  
-> murmuring through the reddened leaves,  
-> a last memory of spring.  
-> Wading into the lukewarm pool of syrup  
-> dripping out of my punctured soul  
-> I found,  
-> and lost  
-> you.  
+>like the wisps of smoke  
+>flowing out of extinguished  
+>birthday candles.  
+>I felt caressing,  
+>like the fleeting beams  
+>of a bleeding evening sun  
+>lazily leaking through the blinds.  
+>I heard whispering,   
+>like a faltering breeze  
+>murmuring through the reddened leaves,  
+>a last memory of spring.  
+>Wading into the lukewarm pool of syrup  
+>dripping out of my punctured soul  
+>I found,  
+>and lost  
+>you.  
  
 
