@@ -1,4 +1,5 @@
 ---
+title: no longer human
 tags: personal literature
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: how to live
 tags: personal
 ---
 It occurred to me yesterday that I have not been living properly. What do I mean? I have not been eating properly, sleeping properly, drinking properly, learning properly, interacting with people properly, thinking properly, etc.
