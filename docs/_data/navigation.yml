@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Honors Portfolio"
+    url: /honors-portfolio/
   - title: "Posts Archive"
     url: /tags/
   - title: "About"
