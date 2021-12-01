@@ -34,4 +34,4 @@ It helps me live more meaningfully.
 
 ---
 
-[**Reflection**](https://uwnetid-my.sharepoint.com/:w:/g/personal/seanlim_uw_edu/EW4t2LqUK4lEiSw0Kjl8MzUBbiPYy7GrB0z5qcVeaLit5w?e=5kiWzG)
+[**Reflection**](https://docs.google.com/document/d/19xOA1QomsTYgJM7k8EfvWIWsnLYqtKCu/edit?usp=sharing&ouid=113226029678780241139&rtpof=true&sd=true)

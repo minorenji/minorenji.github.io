@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "New Site"
+    url: https://mun-site.netlify.app/
   - title: "Honors Portfolio"
     url: /honors-portfolio/
   - title: "Posts Archive"
