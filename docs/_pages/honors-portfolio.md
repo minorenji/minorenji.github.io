@@ -9,6 +9,8 @@ The site started as more of a coding project but has now become more of a space 
 
 I'm currently working on making another website with a different aesthetic that's more focused on short stories.
 
+*11/30 update: the new site has been completed and is available [here](https://mun-site.netlify.app/)*
+
 ## Artifact 2: "Hope"
 
 "Hope" is a short story written by Okinawan author Medoruma Shun. I read this story as part of the Honors Okinawan literature class.
